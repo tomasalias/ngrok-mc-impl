@@ -10,3 +10,10 @@ DISCORD_UPDATES:
   BOT_TOKEN: ""
   UPDATE_CHANNEL_ID: ""
   UPDATE_MESSAGE: "**Updated Server IP** : %server_ip%"
+
+# Dynu API settings
+DYNU_API:
+  ENABLED: false
+  CLIENT_ID: ""
+  SECRET: ""
+  TOKEN: "" # Store the Dynu API token for use in the Java code
